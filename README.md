@@ -41,7 +41,7 @@ Unlike traditional IoT dashboards, PowerCord makes Discord the primary control i
 
 ## 🏗 High-Level System Diagram
 
-#### 📄 View the Draw.io System Architecture : https://shorturl.at/cAkUq
+#### 📄 View the Draw.io System Architecture : https://drive.google.com/file/d/1crCbxQHHdxgUCrPFxzXwOswc3k0LxkZL/view?usp=sharing
 
 ---
 
