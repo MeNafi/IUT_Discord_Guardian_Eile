@@ -22,18 +22,18 @@ Monitor and control office lights and fans through **Discord**, visualize live I
 
 # 📖 Overview
 
-PowerCord is an AI-powered smart office energy management system built for the **IUT Hackathon**.
+Elie is an AI-powered smart office energy management system built for the **IUT Hackathon**.
 
 The system continuously monitors office lights and fans, provides a live dashboard, and allows users to interact with the office through a Discord bot.
 
-Unlike traditional IoT dashboards, PowerCord makes Discord the primary control interface, allowing employees to monitor office energy usage without opening a separate application.
+Unlike traditional IoT dashboards, Eile makes Discord the primary control interface, allowing employees to monitor office energy usage without opening a separate application.
 
 ---
 
 
 # ESP32 Hardware Simulation
 
-#### PowerCord includes an ESP32 hardware simulation using Wokwi.
+#### Elie includes an ESP32 hardware simulation using Wokwi.
 
 ### Live Simulation : https://wokwi.com/projects/468550580082556929
 
